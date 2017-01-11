@@ -42,6 +42,7 @@ class fr_handler {
             'domain' => '',
             'last-update' => 'changed',
             'registered' => 'created',
+            'Expiry Date' => 'expires',
             'country' => 'address.country',
             'registrar' => 'sponsor',
             'role' => 'organization'
