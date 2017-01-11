@@ -37,6 +37,7 @@ class uk_handler {
             'domain.created' => 'Registered on:',
             'domain.changed' => 'Last updated:',
             'domain.expires' => 'Renewal date:',
+            'domain.expires' => 'Expiry date:',
             'domain.nserver' => 'Name servers:',
             'domain.sponsor' => 'Registrar:',
             'domain.status' => 'Registration status:',
